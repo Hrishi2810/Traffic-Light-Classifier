@@ -6,7 +6,7 @@ Project had 2 criterias to pass :
 1. **More than 90% accuracy**
 2. **Never misclassify red lights as green**
 
-I achieved 95.62% accuracy.
+I achieved 95.62% accuracy satisfying the second criteria.
 
 You can find all the necessary files inside **home** directory.
 I had fun playing around with the dataset. Looking forward to working on similar projects in the future.
